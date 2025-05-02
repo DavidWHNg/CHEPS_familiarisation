@@ -1,11 +1,8 @@
 # Import packages
-from psychopy import core, event, gui, visual, parallel, prefs
+from psychopy import core, event, visual, parallel
 import time
-import math
-import random
 import csv
 import os
-import cv2
 
 debug = True # Set to True if parallel ports not plugged for coding/debugging other parts of exp
 
